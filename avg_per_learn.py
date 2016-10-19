@@ -16,63 +16,65 @@ def pathJoin(dirNamePath, listCon):
     return returnList
 
 def findAllSpamFiles(path):
-    listDir = []
+    #listDir = []
     for dirNamePath, dtory, fileNames in os.walk(path):
         for name in dtory:
             if name == 'spam':
                 os.chdir(os.path.join(dirNamePath, name))
 
-                listDir.extend(pathJoin(os.path.join(dirNamePath, name), os.listdir(os.getcwd())))
-
-    return listDir
+                #listDir.extend(pathJoin(os.path.join(dirNamePath, name), os.listdir(os.getcwd())))
+                for item in os.listdir(os.getcwd()):
+                    yield os.path.join(os.path.join(dirNamePath, name), item)
 
 
 
 
 def findAllHamFiles(path):
-    listDir = []
+    #listDir = []
     for dirNamePath, dtory, fileNames in os.walk(path):
         for name in dtory:
             if name == 'ham':
                 os.chdir(os.path.join(dirNamePath, name))
-                listDir.extend(pathJoin(os.path.join(dirNamePath, name), os.listdir(os.getcwd())))
+                #listDir.extend(pathJoin(os.path.join(dirNamePath, name), os.listdir(os.getcwd())))
+                for item in os.listdir(os.getcwd()):
+                    yield os.path.join(os.path.join(dirNamePath, name), item)
 
-    return listDir
-
-
-
-
+    #return listDir
 
 
 
 
-def extractWordsFromSpamHam(spampath, hampath):
+
+
+
+
+def extractWordsFromSpam(spam, spamIndex):
     weightdictContainer = {}
     wordsForAFileName = {}
     weightWordsList = []
     spamNumber = 0
-    hamNumber = 0
-    for item in spampath:
-        with open(item, 'r', encoding="latin1") as fileHandle:
-            wordString = fileHandle.read()
-            wordList = wordString.split()
-            wordListDict = {}
-            weightdictContainer = {word: 0 for word in wordList if word not in weightdictContainer.keys()}
-            for word in wordList:
-                #if word not in weightdictContainer.keys():
-                    #weightdictContainer[word] = 0
-                if word not in wordListDict.keys():
-                    wordListDict[word] = 1
-                else:
-                    wordListDict[word] += 1
-            spamString = 'spam'+spamNumber.__str__()
-            wordsForAFileName[spamString] = wordListDict
+    #hamNumber = 0
 
-            spamNumber += 1
+    with open(spam, 'r', encoding="latin1") as fileHandle:
+        wordString = fileHandle.read()
+        wordList = wordString.split()
+        wordListDict = {}
+        #weightdictContainer = {word: 0 for word in wordList if word not in weightdictContainer.keys()}
+        for word in wordList:
+            if word not in weightdictContainer.keys():
+                weightdictContainer[word] = 0
+            if word not in wordListDict.keys():
+                wordListDict[word] = 1
+            else:
+                wordListDict[word] += 1
+        spamString = 'spam'+spamIndex.__str__()
+        wordsForAFileName[spamString] = wordListDict
+
+
     #print(len(wordsForAFileName))
 
 
-    for item in hampath:
+    '''for item in hampath:
         with open(item, 'r', encoding="latin1") as fileHandle:
             wordString = fileHandle.read()
             wordList = wordString.split()
@@ -88,11 +90,58 @@ def extractWordsFromSpamHam(spampath, hampath):
             hamString = 'ham'+ hamNumber.__str__()
             wordsForAFileName[hamString] = wordListDict
             hamNumber += 1
-    #print(len(wordsForAFileName))
+    #print(len(wordsForAFileName)) '''
     weightWordsList.append(weightdictContainer)
     weightWordsList.append(wordsForAFileName)
     return weightWordsList
 
+
+def extractWordsFromHam(ham, hamIndex):
+    weightdictContainer = {}
+    wordsForAFileName = {}
+    weightWordsList = []
+
+    #hamNumber = 0
+
+    with open(ham, 'r', encoding="latin1") as fileHandle:
+        wordString = fileHandle.read()
+        wordList = wordString.split()
+        wordListDict = {}
+        #weightdictContainer = {word: 0 for word in wordList if word not in weightdictContainer.keys()}
+        for word in wordList:
+            if word not in weightdictContainer.keys():
+                weightdictContainer[word] = 0
+            if word not in wordListDict.keys():
+                wordListDict[word] = 1
+            else:
+                wordListDict[word] += 1
+        hamString = 'ham'+hamIndex.__str__()
+        wordsForAFileName[hamString] = wordListDict
+
+
+    #print(len(wordsForAFileName))
+
+
+    '''for item in hampath:
+        with open(item, 'r', encoding="latin1") as fileHandle:
+            wordString = fileHandle.read()
+            wordList = wordString.split()
+            wordListDict = {}
+            #weightdictContainer = {word: 0 for word in wordList if word not in weightdictContainer.keys()}
+            for word in wordList:
+                if word not in weightdictContainer.keys():
+                    weightdictContainer[word] = 0
+                if word not in wordListDict.keys():
+                    wordListDict[word] = 1
+                else:
+                    wordListDict[word] += 1
+            hamString = 'ham'+ hamNumber.__str__()
+            wordsForAFileName[hamString] = wordListDict
+            hamNumber += 1
+    #print(len(wordsForAFileName)) '''
+    weightWordsList.append(weightdictContainer)
+    weightWordsList.append(wordsForAFileName)
+    return weightWordsList
 
 
 
@@ -123,19 +172,37 @@ if __name__ == '__main__':
     parserObj.add_argument("path_to_folders", help="Specify the path")
     firstArg = parserObj.parse_args()
     direcPath = firstArg.path_to_folders
-    weightDict = {}
+
     wordsForAFileName = {}
     changeDir(direcPath)
 
-    spamFiles = findAllSpamFiles(direcPath) #TODO: Generators can be used here. Instead of generating a huge list of spam and ham files. A file can be processed one at a time.
+    #spamFiles = findAllSpamFiles(direcPath) #TODO: Generators can be used here. Instead of generating a huge list of spam and ham files. A file can be processed one at a time.
 
 
-    hamFiles = findAllHamFiles(direcPath)
+    #hamFiles = findAllHamFiles(direcPath)
+    spamIndex, hamIndex = 0, 0
+    weightDict = {}
+    avgWeightDict = {}
 
-    weightWordsList = extractWordsFromSpamHam(spamFiles, hamFiles)
-    weightDict = weightWordsList[0]
-    avgWeightDict = weightWordsList[0]
-    wordsForAFileName = weightWordsList[1]
+    for file in findAllSpamFiles(direcPath):
+        weightWordsList = extractWordsFromSpam(file, spamIndex)
+        wordsForAFileName.update(weightWordsList[1])
+        weightDict.update(weightWordsList[0])
+        spamIndex += 1
+
+
+
+    for file in findAllHamFiles(direcPath):
+        weightWordsList = extractWordsFromHam(file, hamIndex)
+        wordsForAFileName.update(weightWordsList[1])
+        weightDict.update(weightWordsList[0])
+        hamIndex += 1
+
+    avgWeightDict = dict(weightDict)
+    #weightWordsList = extractWordsFromSpamHam(spamFiles, hamFiles)
+    #weightDict = weightWordsList[0]
+    #avgWeightDict = weightWordsList[0]
+    #wordsForAFileName = weightWordsList[1]
     bias = 0
     avgBias = 0
     i = 0

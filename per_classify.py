@@ -8,10 +8,14 @@ def changeDir(path):
     os.chdir(path)
 
 def findAllFiles(path):
-    allFiles = [os.path.join(pathDir, filename)
-                 for pathDir, namedir, tfiles in os.walk(path)
-                 for filename in fnmatch.filter(tfiles, '*.txt')]
-    return allFiles
+    #allFiles = [os.path.join(pathDir, filename)
+                 #for pathDir, namedir, tfiles in os.walk(path)
+                 #for filename in fnmatch.filter(tfiles, '*.txt')]
+    for pathDir, namedir, tfiles in os.walk(path):
+        for filename in fnmatch.filter(tfiles, '*.txt'):
+            yield os.path.join(pathDir, filename)
+
+
 
 
 
@@ -78,7 +82,7 @@ if __name__ == '__main__':
     direcPath = firstArg.path_to_folders
     outputFileName = firstArg.output_file_name
     changeDir(direcPath)
-    allFiles = findAllFiles(direcPath)
+    #allFiles = findAllFiles(direcPath)
 
     modelParams = []
     modelParams = openModel(storePath)
@@ -91,9 +95,9 @@ if __name__ == '__main__':
 
     bias = modelParams[0]
     weightDict = modelParams[1]
-    print(len(modelParams))
+    #print(len(modelParams))
     with open(outputFileName,mode='w',encoding='latin1') as fileHandle:
-        for singleFile in allFiles:
+        for singleFile in findAllFiles(direcPath):
             strValue = classifyDocument(singleFile, bias, weightDict)
             if(strValue == 'spam'):
 
