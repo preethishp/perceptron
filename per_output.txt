@@ -91,7 +91,7 @@ ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/3114.2000-10-23.beck.ham.tx
 ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/0752.2000-04-17.beck.ham.txt
 ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/2327.2000-08-29.beck.ham.txt
 ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/2747.2000-10-02.beck.ham.txt
-ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/1634.2000-06-26.beck.ham.txt
+spam /home/preethishp/Documents/spam_or_ham/dev/4/ham/1634.2000-06-26.beck.ham.txt
 ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/3446.2000-11-16.beck.ham.txt
 ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/1524.2000-06-19.beck.ham.txt
 ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/2821.2000-10-04.beck.ham.txt
@@ -123,7 +123,7 @@ ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/4117.2001-01-19.beck.ham.tx
 ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/4932.2001-04-05.beck.ham.txt
 ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/0918.2000-05-05.beck.ham.txt
 ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/2194.2000-08-18.beck.ham.txt
-ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/1421.2000-06-14.beck.ham.txt
+spam /home/preethishp/Documents/spam_or_ham/dev/4/ham/1421.2000-06-14.beck.ham.txt
 ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/2140.2000-08-14.beck.ham.txt
 ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/1604.2000-06-23.beck.ham.txt
 ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/2784.2000-10-03.beck.ham.txt
@@ -177,7 +177,7 @@ ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/0112.2000-01-27.beck.ham.tx
 ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/0515.2000-03-14.beck.ham.txt
 ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/3301.2000-11-07.beck.ham.txt
 ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/4963.2001-04-09.beck.ham.txt
-spam /home/preethishp/Documents/spam_or_ham/dev/4/ham/4170.2001-01-22.beck.ham.txt
+ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/4170.2001-01-22.beck.ham.txt
 ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/3695.2000-12-11.beck.ham.txt
 ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/2245.2000-08-25.beck.ham.txt
 ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/0812.2000-04-25.beck.ham.txt
@@ -227,7 +227,7 @@ ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/1748.2000-06-29.beck.ham.tx
 ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/0466.2000-03-09.beck.ham.txt
 ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/3082.2000-10-20.beck.ham.txt
 ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/2391.2000-09-01.beck.ham.txt
-spam /home/preethishp/Documents/spam_or_ham/dev/4/ham/4770.2001-03-29.beck.ham.txt
+ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/4770.2001-03-29.beck.ham.txt
 ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/4467.2001-02-16.beck.ham.txt
 ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/0123.2000-01-28.beck.ham.txt
 ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/5045.2001-04-12.beck.ham.txt
@@ -338,7 +338,7 @@ ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/2685.2000-09-23.beck.ham.tx
 ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/2199.2000-08-21.beck.ham.txt
 ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/2733.2000-09-28.beck.ham.txt
 ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/3001.2000-10-13.beck.ham.txt
-spam /home/preethishp/Documents/spam_or_ham/dev/4/ham/3349.2000-11-09.beck.ham.txt
+ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/3349.2000-11-09.beck.ham.txt
 ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/1578.2000-06-21.beck.ham.txt
 ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/3027.2000-10-16.beck.ham.txt
 ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/4531.2001-02-23.beck.ham.txt
@@ -375,7 +375,7 @@ ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/2166.2000-08-15.beck.ham.tx
 ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/2226.2000-08-23.beck.ham.txt
 ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/0324.2000-02-20.beck.ham.txt
 ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/1339.2000-06-13.beck.ham.txt
-spam /home/preethishp/Documents/spam_or_ham/dev/4/ham/3953.2001-01-14.beck.ham.txt
+ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/3953.2001-01-14.beck.ham.txt
 ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/3812.2000-12-19.beck.ham.txt
 ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/0992.2000-05-11.beck.ham.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/ham/4023.2001-01-16.beck.ham.txt
@@ -393,14 +393,14 @@ ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/0418.2000-03-02.beck.ham.tx
 ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/4547.2001-02-27.beck.ham.txt
 ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/0715.2000-04-14.beck.ham.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/ham/2976.2000-10-12.beck.ham.txt
-ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/1512.2000-06-19.beck.ham.txt
+spam /home/preethishp/Documents/spam_or_ham/dev/4/ham/1512.2000-06-19.beck.ham.txt
 ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/2574.2000-09-15.beck.ham.txt
 ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/4990.2001-04-10.beck.ham.txt
 ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/0163.2000-02-02.beck.ham.txt
 ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/2703.2000-09-27.beck.ham.txt
 ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/2905.2000-10-10.beck.ham.txt
 ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/4178.2001-01-24.beck.ham.txt
-spam /home/preethishp/Documents/spam_or_ham/dev/4/ham/1923.2000-07-19.beck.ham.txt
+ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/1923.2000-07-19.beck.ham.txt
 ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/0557.2000-03-16.beck.ham.txt
 ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/0129.2000-01-31.beck.ham.txt
 ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/1191.2000-06-02.beck.ham.txt
@@ -486,7 +486,7 @@ ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/4509.2001-02-21.beck.ham.tx
 ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/4768.2001-03-29.beck.ham.txt
 ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/4267.2001-02-02.beck.ham.txt
 ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/0473.2000-03-09.beck.ham.txt
-spam /home/preethishp/Documents/spam_or_ham/dev/4/ham/3638.2000-12-06.beck.ham.txt
+ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/3638.2000-12-06.beck.ham.txt
 ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/3241.2000-10-31.beck.ham.txt
 ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/0872.2000-04-27.beck.ham.txt
 ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/0617.2000-04-03.beck.ham.txt
@@ -503,7 +503,7 @@ ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/0060.2000-01-18.beck.ham.tx
 ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/1437.2000-06-15.beck.ham.txt
 ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/0496.2000-03-10.beck.ham.txt
 ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/2533.2000-09-13.beck.ham.txt
-spam /home/preethishp/Documents/spam_or_ham/dev/4/ham/2862.2000-10-06.beck.ham.txt
+ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/2862.2000-10-06.beck.ham.txt
 ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/1093.2000-05-22.beck.ham.txt
 ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/0256.2000-02-13.beck.ham.txt
 ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/4944.2001-04-06.beck.ham.txt
@@ -651,7 +651,7 @@ ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/0192.2000-02-06.beck.ham.tx
 ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/0180.2000-02-04.beck.ham.txt
 ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/1404.2000-06-14.beck.ham.txt
 ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/4352.2001-02-07.beck.ham.txt
-ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/3297.2000-11-07.beck.ham.txt
+spam /home/preethishp/Documents/spam_or_ham/dev/4/ham/3297.2000-11-07.beck.ham.txt
 ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/2289.2000-08-28.beck.ham.txt
 ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/1297.2000-06-10.beck.ham.txt
 ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/3766.2000-12-13.beck.ham.txt
@@ -715,7 +715,7 @@ ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/4790.2001-03-29.beck.ham.tx
 spam /home/preethishp/Documents/spam_or_ham/dev/4/ham/1979.2000-07-24.beck.ham.txt
 ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/3143.2000-10-24.beck.ham.txt
 ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/3306.2000-11-08.beck.ham.txt
-spam /home/preethishp/Documents/spam_or_ham/dev/4/ham/4311.2001-02-06.beck.ham.txt
+ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/4311.2001-02-06.beck.ham.txt
 ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/0171.2000-02-02.beck.ham.txt
 ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/4124.2001-01-19.beck.ham.txt
 ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/3571.2000-11-30.beck.ham.txt
@@ -723,7 +723,7 @@ ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/3827.2000-12-19.beck.ham.tx
 ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/4638.2001-03-19.beck.ham.txt
 ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/3405.2000-11-15.beck.ham.txt
 ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/0889.2000-05-01.beck.ham.txt
-spam /home/preethishp/Documents/spam_or_ham/dev/4/ham/2865.2000-10-06.beck.ham.txt
+ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/2865.2000-10-06.beck.ham.txt
 ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/3183.2000-10-27.beck.ham.txt
 ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/1065.2000-05-18.beck.ham.txt
 ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/4060.2001-01-16.beck.ham.txt
@@ -787,7 +787,7 @@ ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/1450.2000-06-15.beck.ham.tx
 ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/2523.2000-09-12.beck.ham.txt
 ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/2876.2000-10-06.beck.ham.txt
 ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/4393.2001-02-13.beck.ham.txt
-ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/1414.2000-06-14.beck.ham.txt
+spam /home/preethishp/Documents/spam_or_ham/dev/4/ham/1414.2000-06-14.beck.ham.txt
 ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/2740.2000-09-29.beck.ham.txt
 ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/4803.2001-03-30.beck.ham.txt
 ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/0027.2000-01-17.beck.ham.txt
@@ -904,7 +904,7 @@ ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/2889.2000-10-09.beck.ham.tx
 ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/1864.2000-07-10.beck.ham.txt
 ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/4434.2001-02-15.beck.ham.txt
 ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/2599.2000-09-18.beck.ham.txt
-spam /home/preethishp/Documents/spam_or_ham/dev/4/ham/1772.2000-06-30.beck.ham.txt
+ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/1772.2000-06-30.beck.ham.txt
 ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/4503.2001-02-21.beck.ham.txt
 ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/3921.2001-01-08.beck.ham.txt
 ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/4689.2001-03-23.beck.ham.txt
@@ -991,7 +991,7 @@ spam /home/preethishp/Documents/spam_or_ham/dev/4/ham/3145.2000-10-24.beck.ham.t
 ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/1608.2000-06-23.beck.ham.txt
 ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/3329.2000-11-08.beck.ham.txt
 ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/0737.2000-04-16.beck.ham.txt
-spam /home/preethishp/Documents/spam_or_ham/dev/4/ham/1360.2000-06-13.beck.ham.txt
+ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/1360.2000-06-13.beck.ham.txt
 ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/1276.2000-06-08.beck.ham.txt
 ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/0356.2000-02-23.beck.ham.txt
 ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/5139.2001-04-23.beck.ham.txt
@@ -1005,7 +1005,7 @@ ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/4356.2001-02-07.beck.ham.tx
 ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/3810.2000-12-18.beck.ham.txt
 ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/0702.2000-04-13.beck.ham.txt
 ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/1538.2000-06-20.beck.ham.txt
-ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/4350.2001-02-07.beck.ham.txt
+spam /home/preethishp/Documents/spam_or_ham/dev/4/ham/4350.2001-02-07.beck.ham.txt
 ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/4446.2001-02-15.beck.ham.txt
 ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/4591.2001-03-02.beck.ham.txt
 ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/2611.2000-09-19.beck.ham.txt
@@ -1057,7 +1057,7 @@ ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/1601.2000-06-23.beck.ham.tx
 ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/5125.2001-04-19.beck.ham.txt
 ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/0328.2000-02-22.beck.ham.txt
 ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/3646.2000-12-07.beck.ham.txt
-spam /home/preethishp/Documents/spam_or_ham/dev/4/ham/4040.2001-01-16.beck.ham.txt
+ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/4040.2001-01-16.beck.ham.txt
 ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/0007.2000-01-17.beck.ham.txt
 ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/4292.2001-02-02.beck.ham.txt
 ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/0343.2000-02-23.beck.ham.txt
@@ -1108,7 +1108,7 @@ ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/5160.2001-05-15.beck.ham.tx
 ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/0238.2000-02-10.beck.ham.txt
 ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/1102.2000-05-24.beck.ham.txt
 ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/4107.2001-01-19.beck.ham.txt
-ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/4476.2001-02-19.beck.ham.txt
+spam /home/preethishp/Documents/spam_or_ham/dev/4/ham/4476.2001-02-19.beck.ham.txt
 ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/4415.2001-02-14.beck.ham.txt
 ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/4185.2001-01-24.beck.ham.txt
 ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/4353.2001-02-07.beck.ham.txt
@@ -1140,7 +1140,7 @@ ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/4163.2001-01-22.beck.ham.tx
 ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/2965.2000-10-11.beck.ham.txt
 ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/0816.2000-04-25.beck.ham.txt
 ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/3902.2001-01-04.beck.ham.txt
-ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/4551.2001-02-27.beck.ham.txt
+spam /home/preethishp/Documents/spam_or_ham/dev/4/ham/4551.2001-02-27.beck.ham.txt
 ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/5075.2001-04-17.beck.ham.txt
 ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/0612.2000-03-28.beck.ham.txt
 ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/0128.2000-01-31.beck.ham.txt
@@ -1191,7 +1191,7 @@ ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/3481.2000-11-16.beck.ham.tx
 ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/4290.2001-02-02.beck.ham.txt
 ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/0635.2000-04-04.beck.ham.txt
 ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/0399.2000-02-29.beck.ham.txt
-ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/0682.2000-04-10.beck.ham.txt
+spam /home/preethishp/Documents/spam_or_ham/dev/4/ham/0682.2000-04-10.beck.ham.txt
 ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/4870.2001-04-03.beck.ham.txt
 ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/2835.2000-10-05.beck.ham.txt
 ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/2057.2000-07-30.beck.ham.txt
@@ -1247,13 +1247,13 @@ ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/2615.2000-09-19.beck.ham.tx
 spam /home/preethishp/Documents/spam_or_ham/dev/4/ham/2836.2000-10-05.beck.ham.txt
 ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/2398.2000-09-04.beck.ham.txt
 ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/4140.2001-01-21.beck.ham.txt
-spam /home/preethishp/Documents/spam_or_ham/dev/4/ham/2325.2000-08-29.beck.ham.txt
+ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/2325.2000-08-29.beck.ham.txt
 ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/3200.2000-10-27.beck.ham.txt
 ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/4946.2001-04-09.beck.ham.txt
 ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/3528.2000-11-28.beck.ham.txt
 ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/0610.2000-03-23.beck.ham.txt
 ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/3503.2000-11-20.beck.ham.txt
-spam /home/preethishp/Documents/spam_or_ham/dev/4/ham/0791.2000-04-21.beck.ham.txt
+ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/0791.2000-04-21.beck.ham.txt
 ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/4382.2001-02-09.beck.ham.txt
 ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/2162.2000-08-15.beck.ham.txt
 ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/0730.2000-04-14.beck.ham.txt
@@ -1470,7 +1470,7 @@ ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/1997.2000-07-25.beck.ham.tx
 ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/4208.2001-01-26.beck.ham.txt
 ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/1899.2000-07-13.beck.ham.txt
 ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/1483.2000-06-18.beck.ham.txt
-ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/4190.2001-01-25.beck.ham.txt
+spam /home/preethishp/Documents/spam_or_ham/dev/4/ham/4190.2001-01-25.beck.ham.txt
 ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/3472.2000-11-16.beck.ham.txt
 ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/1239.2000-06-07.beck.ham.txt
 ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/0366.2000-02-25.beck.ham.txt
@@ -1492,7 +1492,7 @@ ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/0627.2000-04-03.beck.ham.tx
 ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/2507.2000-09-12.beck.ham.txt
 ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/3398.2000-11-14.beck.ham.txt
 ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/2546.2000-09-13.beck.ham.txt
-spam /home/preethishp/Documents/spam_or_ham/dev/4/ham/3966.2001-01-15.beck.ham.txt
+ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/3966.2001-01-15.beck.ham.txt
 ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/4412.2001-02-14.beck.ham.txt
 ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/3731.2000-12-12.beck.ham.txt
 ham /home/preethishp/Documents/spam_or_ham/dev/4/ham/0314.2000-02-19.beck.ham.txt
@@ -1528,7 +1528,7 @@ spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/1699.2005-06-22.SA_and_HP
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/4009.2005-07-15.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/3223.2005-07-03.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/4529.2005-07-19.SA_and_HP.spam.txt
-ham /home/preethishp/Documents/spam_or_ham/dev/4/spam/4041.2005-07-15.SA_and_HP.spam.txt
+spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/4041.2005-07-15.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/2265.2005-06-26.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/0075.2002-04-24.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/4480.2005-07-19.SA_and_HP.spam.txt
@@ -1630,7 +1630,7 @@ spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/2925.2005-06-30.SA_and_HP
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/3342.2005-07-03.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/1201.2002-09-13.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/1346.2002-12-03.SA_and_HP.spam.txt
-spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/4569.2005-07-19.SA_and_HP.spam.txt
+ham /home/preethishp/Documents/spam_or_ham/dev/4/spam/4569.2005-07-19.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/1846.2005-06-23.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/1704.2005-06-22.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/1336.2002-11-28.SA_and_HP.spam.txt
@@ -1718,7 +1718,7 @@ spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/3583.2005-07-05.SA_and_HP
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/3440.2005-07-04.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/3174.2005-07-02.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/0442.2002-06-08.SA_and_HP.spam.txt
-ham /home/preethishp/Documents/spam_or_ham/dev/4/spam/0367.2002-06-02.SA_and_HP.spam.txt
+spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/0367.2002-06-02.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/1818.2005-06-23.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/2312.2005-06-26.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/1088.2002-08-28.SA_and_HP.spam.txt
@@ -1902,7 +1902,7 @@ spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/4168.2005-07-16.SA_and_HP
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/5173.2005-07-22.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/4558.2005-07-19.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/1706.2005-06-22.SA_and_HP.spam.txt
-spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/3224.2005-07-03.SA_and_HP.spam.txt
+ham /home/preethishp/Documents/spam_or_ham/dev/4/spam/3224.2005-07-03.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/1888.2005-06-23.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/4701.2005-07-19.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/2105.2005-06-25.SA_and_HP.spam.txt
@@ -2073,7 +2073,7 @@ spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/1432.2005-05-23.SA_and_HP
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/0365.2002-06-01.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/1026.2002-08-23.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/3059.2005-07-01.SA_and_HP.spam.txt
-ham /home/preethishp/Documents/spam_or_ham/dev/4/spam/0642.2002-07-22.SA_and_HP.spam.txt
+spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/0642.2002-07-22.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/0173.2002-05-15.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/3713.2005-07-06.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/1051.2002-08-25.SA_and_HP.spam.txt
@@ -2084,7 +2084,7 @@ spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/3751.2005-07-06.SA_and_HP
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/0948.2002-08-05.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/1722.2005-06-22.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/4743.2005-07-19.SA_and_HP.spam.txt
-ham /home/preethishp/Documents/spam_or_ham/dev/4/spam/1001.2002-08-22.SA_and_HP.spam.txt
+spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/1001.2002-08-22.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/0747.2002-07-24.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/2622.2005-06-28.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/4075.2005-07-15.SA_and_HP.spam.txt
@@ -2254,7 +2254,7 @@ spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/1589.2005-06-22.SA_and_HP
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/1776.2005-06-22.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/1681.2005-06-22.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/2645.2005-06-29.SA_and_HP.spam.txt
-spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/2001.2005-06-24.SA_and_HP.spam.txt
+ham /home/preethishp/Documents/spam_or_ham/dev/4/spam/2001.2005-06-24.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/0500.2002-07-17.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/0024.2001-08-01.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/0429.2002-06-07.SA_and_HP.spam.txt
@@ -2276,13 +2276,13 @@ spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/2246.2005-06-26.SA_and_HP
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/2482.2005-06-28.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/0342.2002-05-30.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/1907.2005-06-23.SA_and_HP.spam.txt
-ham /home/preethishp/Documents/spam_or_ham/dev/4/spam/4541.2005-07-19.SA_and_HP.spam.txt
+spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/4541.2005-07-19.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/4532.2005-07-19.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/4335.2005-07-18.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/1388.2005-03-22.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/1557.2005-06-21.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/4865.2005-07-20.SA_and_HP.spam.txt
-ham /home/preethishp/Documents/spam_or_ham/dev/4/spam/0011.2001-06-29.SA_and_HP.spam.txt
+spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/0011.2001-06-29.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/4241.2005-07-17.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/2259.2005-06-26.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/0939.2002-08-05.SA_and_HP.spam.txt
@@ -2303,7 +2303,7 @@ spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/4902.2005-07-20.SA_and_HP
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/4024.2005-07-15.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/3217.2005-07-02.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/3628.2005-07-06.SA_and_HP.spam.txt
-ham /home/preethishp/Documents/spam_or_ham/dev/4/spam/0807.2002-07-26.SA_and_HP.spam.txt
+spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/0807.2002-07-26.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/1932.2005-06-24.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/3735.2005-07-06.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/3412.2005-07-04.SA_and_HP.spam.txt
@@ -2331,7 +2331,7 @@ ham /home/preethishp/Documents/spam_or_ham/dev/4/spam/4475.2005-07-19.SA_and_HP.
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/1927.2005-06-24.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/2856.2005-06-30.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/1661.2005-06-22.SA_and_HP.spam.txt
-ham /home/preethishp/Documents/spam_or_ham/dev/4/spam/3171.2005-07-02.SA_and_HP.spam.txt
+spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/3171.2005-07-02.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/1395.2005-03-25.SA_and_HP.spam.txt
 ham /home/preethishp/Documents/spam_or_ham/dev/4/spam/2724.2005-06-29.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/1362.2003-01-01.SA_and_HP.spam.txt
@@ -2430,13 +2430,13 @@ spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/1120.2002-08-30.SA_and_HP
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/1921.2005-06-24.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/4053.2005-07-15.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/4073.2005-07-15.SA_and_HP.spam.txt
-ham /home/preethishp/Documents/spam_or_ham/dev/4/spam/4858.2005-07-19.SA_and_HP.spam.txt
+spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/4858.2005-07-19.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/2313.2005-06-26.SA_and_HP.spam.txt
-ham /home/preethishp/Documents/spam_or_ham/dev/4/spam/4722.2005-07-19.SA_and_HP.spam.txt
+spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/4722.2005-07-19.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/2342.2005-06-27.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/2435.2005-06-27.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/3461.2005-07-04.SA_and_HP.spam.txt
-spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/3597.2005-07-05.SA_and_HP.spam.txt
+ham /home/preethishp/Documents/spam_or_ham/dev/4/spam/3597.2005-07-05.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/3356.2005-07-04.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/2897.2005-06-30.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/4468.2005-07-19.SA_and_HP.spam.txt
@@ -2463,7 +2463,7 @@ spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/1905.2005-06-23.SA_and_HP
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/3118.2005-07-02.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/1653.2005-06-22.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/1283.2002-09-23.SA_and_HP.spam.txt
-ham /home/preethishp/Documents/spam_or_ham/dev/4/spam/4825.2005-07-19.SA_and_HP.spam.txt
+spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/4825.2005-07-19.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/3904.2005-07-14.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/4457.2005-07-19.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/2804.2005-06-29.SA_and_HP.spam.txt
@@ -2519,7 +2519,7 @@ spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/2770.2005-06-29.SA_and_HP
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/3806.2005-07-11.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/4097.2005-07-15.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/1678.2005-06-22.SA_and_HP.spam.txt
-spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/5132.2005-07-21.SA_and_HP.spam.txt
+ham /home/preethishp/Documents/spam_or_ham/dev/4/spam/5132.2005-07-21.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/1777.2005-06-22.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/3665.2005-07-06.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/3176.2005-07-02.SA_and_HP.spam.txt
@@ -2551,7 +2551,7 @@ spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/4361.2005-07-18.SA_and_HP
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/3309.2005-07-03.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/3775.2005-07-07.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/1922.2005-06-24.SA_and_HP.spam.txt
-spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/4614.2005-07-19.SA_and_HP.spam.txt
+ham /home/preethishp/Documents/spam_or_ham/dev/4/spam/4614.2005-07-19.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/2456.2005-06-27.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/3601.2005-07-05.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/0265.2002-05-21.SA_and_HP.spam.txt
@@ -2595,7 +2595,7 @@ spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/2746.2005-06-29.SA_and_HP
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/0041.2001-08-18.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/2309.2005-06-26.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/4298.2005-07-17.SA_and_HP.spam.txt
-ham /home/preethishp/Documents/spam_or_ham/dev/4/spam/4709.2005-07-19.SA_and_HP.spam.txt
+spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/4709.2005-07-19.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/2815.2005-06-30.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/3258.2005-07-03.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/1506.2005-06-21.SA_and_HP.spam.txt
@@ -2681,8 +2681,8 @@ spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/1487.2005-06-21.SA_and_HP
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/2431.2005-06-27.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/5039.2005-07-21.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/0472.2002-06-10.SA_and_HP.spam.txt
-spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/4702.2005-07-19.SA_and_HP.spam.txt
-ham /home/preethishp/Documents/spam_or_ham/dev/4/spam/4620.2005-07-19.SA_and_HP.spam.txt
+ham /home/preethishp/Documents/spam_or_ham/dev/4/spam/4702.2005-07-19.SA_and_HP.spam.txt
+spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/4620.2005-07-19.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/0269.2002-05-22.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/1085.2002-08-27.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/3284.2005-07-03.SA_and_HP.spam.txt
@@ -2883,7 +2883,7 @@ spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/1376.2004-07-21.SA_and_HP
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/1501.2005-06-21.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/1110.2002-08-29.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/1337.2002-11-28.SA_and_HP.spam.txt
-spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/4823.2005-07-19.SA_and_HP.spam.txt
+ham /home/preethishp/Documents/spam_or_ham/dev/4/spam/4823.2005-07-19.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/1705.2005-06-22.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/4195.2005-07-16.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/3403.2005-07-04.SA_and_HP.spam.txt
@@ -3084,7 +3084,7 @@ spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/1690.2005-06-22.SA_and_HP
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/2300.2005-06-26.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/4363.2005-07-18.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/1537.2005-06-21.SA_and_HP.spam.txt
-ham /home/preethishp/Documents/spam_or_ham/dev/4/spam/4716.2005-07-19.SA_and_HP.spam.txt
+spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/4716.2005-07-19.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/1998.2005-06-24.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/0822.2002-07-27.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/3943.2005-07-14.SA_and_HP.spam.txt
@@ -3209,7 +3209,7 @@ spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/4282.2005-07-17.SA_and_HP
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/4730.2005-07-19.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/3620.2005-07-06.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/3088.2005-07-01.SA_and_HP.spam.txt
-spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/0731.2002-07-24.SA_and_HP.spam.txt
+ham /home/preethishp/Documents/spam_or_ham/dev/4/spam/0731.2002-07-24.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/3784.2005-07-07.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/4721.2005-07-19.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/4543.2005-07-19.SA_and_HP.spam.txt
@@ -3220,7 +3220,7 @@ spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/2059.2005-06-24.SA_and_HP
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/3872.2005-07-13.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/3013.2005-07-01.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/3546.2005-07-05.SA_and_HP.spam.txt
-spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/4783.2005-07-19.SA_and_HP.spam.txt
+ham /home/preethishp/Documents/spam_or_ham/dev/4/spam/4783.2005-07-19.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/1732.2005-06-22.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/4549.2005-07-19.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/3712.2005-07-06.SA_and_HP.spam.txt
@@ -3235,9 +3235,9 @@ spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/4056.2005-07-15.SA_and_HP
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/1688.2005-06-22.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/5071.2005-07-21.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/5175.2005-07-22.SA_and_HP.spam.txt
-spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/4850.2005-07-19.SA_and_HP.spam.txt
+ham /home/preethishp/Documents/spam_or_ham/dev/4/spam/4850.2005-07-19.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/4582.2005-07-19.SA_and_HP.spam.txt
-ham /home/preethishp/Documents/spam_or_ham/dev/4/spam/0738.2002-07-24.SA_and_HP.spam.txt
+spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/0738.2002-07-24.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/3527.2005-07-05.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/2522.2005-06-28.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/1139.2002-09-03.SA_and_HP.spam.txt
@@ -3261,7 +3261,7 @@ spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/3788.2005-07-07.SA_and_HP
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/3967.2005-07-14.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/3819.2005-07-12.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/1514.2005-06-21.SA_and_HP.spam.txt
-spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/4390.2005-07-18.SA_and_HP.spam.txt
+ham /home/preethishp/Documents/spam_or_ham/dev/4/spam/4390.2005-07-18.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/4606.2005-07-19.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/2701.2005-06-29.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/2554.2005-06-28.SA_and_HP.spam.txt
@@ -3283,7 +3283,7 @@ spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/1803.2005-06-23.SA_and_HP
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/2244.2005-06-26.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/4540.2005-07-19.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/2484.2005-06-28.SA_and_HP.spam.txt
-spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/3564.2005-07-05.SA_and_HP.spam.txt
+ham /home/preethishp/Documents/spam_or_ham/dev/4/spam/3564.2005-07-05.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/3745.2005-07-06.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/0708.2002-07-23.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/2134.2005-06-25.SA_and_HP.spam.txt
@@ -3443,7 +3443,7 @@ spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/4578.2005-07-19.SA_and_HP
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/1078.2002-08-27.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/2203.2005-06-26.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/3212.2005-07-02.SA_and_HP.spam.txt
-spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/0296.2002-05-26.SA_and_HP.spam.txt
+ham /home/preethishp/Documents/spam_or_ham/dev/4/spam/0296.2002-05-26.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/1684.2005-06-22.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/4443.2005-07-19.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/5165.2005-07-22.SA_and_HP.spam.txt
@@ -3508,7 +3508,7 @@ spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/0815.2002-07-26.SA_and_HP
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/3253.2005-07-03.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/1277.2002-09-21.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/2913.2005-06-30.SA_and_HP.spam.txt
-spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/0069.2002-04-13.SA_and_HP.spam.txt
+ham /home/preethishp/Documents/spam_or_ham/dev/4/spam/0069.2002-04-13.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/3185.2005-07-02.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/0295.2002-05-26.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/3225.2005-07-03.SA_and_HP.spam.txt
@@ -3531,7 +3531,7 @@ spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/0259.2002-05-21.SA_and_HP
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/0566.2002-07-19.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/2962.2005-06-30.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/0345.2002-05-30.SA_and_HP.spam.txt
-ham /home/preethishp/Documents/spam_or_ham/dev/4/spam/0777.2002-07-25.SA_and_HP.spam.txt
+spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/0777.2002-07-25.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/1423.2005-04-27.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/1941.2005-06-24.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/2637.2005-06-29.SA_and_HP.spam.txt
@@ -3557,10 +3557,10 @@ ham /home/preethishp/Documents/spam_or_ham/dev/4/spam/4891.2005-07-20.SA_and_HP.
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/2699.2005-06-29.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/0979.2002-08-07.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/1750.2005-06-22.SA_and_HP.spam.txt
-spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/2563.2005-06-28.SA_and_HP.spam.txt
+ham /home/preethishp/Documents/spam_or_ham/dev/4/spam/2563.2005-06-28.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/2279.2005-06-26.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/4192.2005-07-16.SA_and_HP.spam.txt
-spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/1783.2005-06-23.SA_and_HP.spam.txt
+ham /home/preethishp/Documents/spam_or_ham/dev/4/spam/1783.2005-06-23.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/0587.2002-07-20.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/3198.2005-07-02.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/3262.2005-07-03.SA_and_HP.spam.txt
@@ -3672,13 +3672,13 @@ spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/2497.2005-06-28.SA_and_HP
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/2813.2005-06-30.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/2452.2005-06-27.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/0428.2002-06-07.SA_and_HP.spam.txt
-spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/4296.2005-07-17.SA_and_HP.spam.txt
+ham /home/preethishp/Documents/spam_or_ham/dev/4/spam/4296.2005-07-17.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/1101.2002-08-29.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/2504.2005-06-28.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/3748.2005-07-06.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/1696.2005-06-22.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/2953.2005-06-30.SA_and_HP.spam.txt
-spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/3763.2005-07-07.SA_and_HP.spam.txt
+ham /home/preethishp/Documents/spam_or_ham/dev/4/spam/3763.2005-07-07.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/3643.2005-07-06.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/3765.2005-07-07.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/4299.2005-07-17.SA_and_HP.spam.txt
@@ -3697,7 +3697,7 @@ spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/2819.2005-06-30.SA_and_HP
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/4406.2005-07-18.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/2822.2005-06-30.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/3314.2005-07-03.SA_and_HP.spam.txt
-ham /home/preethishp/Documents/spam_or_ham/dev/4/spam/0947.2002-08-05.SA_and_HP.spam.txt
+spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/0947.2002-08-05.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/4659.2005-07-19.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/3985.2005-07-14.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/3305.2005-07-03.SA_and_HP.spam.txt
@@ -3793,7 +3793,7 @@ spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/4576.2005-07-19.SA_and_HP
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/5070.2005-07-21.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/2311.2005-06-26.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/3617.2005-07-06.SA_and_HP.spam.txt
-ham /home/preethishp/Documents/spam_or_ham/dev/4/spam/3421.2005-07-04.SA_and_HP.spam.txt
+spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/3421.2005-07-04.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/3352.2005-07-04.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/5023.2005-07-21.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/4252.2005-07-17.SA_and_HP.spam.txt
@@ -3900,7 +3900,7 @@ spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/1792.2005-06-23.SA_and_HP
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/4246.2005-07-17.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/1451.2005-06-13.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/1819.2005-06-23.SA_and_HP.spam.txt
-spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/1007.2002-08-22.SA_and_HP.spam.txt
+ham /home/preethishp/Documents/spam_or_ham/dev/4/spam/1007.2002-08-22.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/4043.2005-07-15.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/0744.2002-07-24.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/2473.2005-06-27.SA_and_HP.spam.txt
@@ -4019,7 +4019,7 @@ spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/4504.2005-07-19.SA_and_HP
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/0696.2002-07-23.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/2155.2005-06-25.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/4553.2005-07-19.SA_and_HP.spam.txt
-ham /home/preethishp/Documents/spam_or_ham/dev/4/spam/4223.2005-07-17.SA_and_HP.spam.txt
+spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/4223.2005-07-17.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/1092.2002-08-28.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/1367.2003-11-10.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/2570.2005-06-28.SA_and_HP.spam.txt
@@ -4052,7 +4052,7 @@ spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/2392.2005-06-27.SA_and_HP
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/1449.2005-06-12.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/4167.2005-07-16.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/0311.2002-05-27.SA_and_HP.spam.txt
-ham /home/preethishp/Documents/spam_or_ham/dev/4/spam/1310.2002-09-25.SA_and_HP.spam.txt
+spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/1310.2002-09-25.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/0830.2002-07-27.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/2401.2005-06-27.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/0391.2002-06-04.SA_and_HP.spam.txt
@@ -4101,7 +4101,7 @@ spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/1712.2005-06-22.SA_and_HP
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/5024.2005-07-21.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/0802.2002-07-25.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/4530.2005-07-19.SA_and_HP.spam.txt
-ham /home/preethishp/Documents/spam_or_ham/dev/4/spam/3728.2005-07-06.SA_and_HP.spam.txt
+spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/3728.2005-07-06.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/3533.2005-07-05.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/0727.2002-07-24.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/3075.2005-07-01.SA_and_HP.spam.txt
@@ -4110,7 +4110,7 @@ spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/3579.2005-07-05.SA_and_HP
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/4677.2005-07-19.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/3667.2005-07-06.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/3221.2005-07-02.SA_and_HP.spam.txt
-spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/3102.2005-07-01.SA_and_HP.spam.txt
+ham /home/preethishp/Documents/spam_or_ham/dev/4/spam/3102.2005-07-01.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/1410.2005-04-14.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/4126.2005-07-16.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/4877.2005-07-20.SA_and_HP.spam.txt
@@ -4125,7 +4125,7 @@ spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/3756.2005-07-07.SA_and_HP
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/5166.2005-07-22.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/1268.2002-09-20.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/5092.2005-07-21.SA_and_HP.spam.txt
-spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/3191.2005-07-02.SA_and_HP.spam.txt
+ham /home/preethishp/Documents/spam_or_ham/dev/4/spam/3191.2005-07-02.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/3994.2005-07-14.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/1992.2005-06-24.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/1343.2002-12-03.SA_and_HP.spam.txt
@@ -4194,7 +4194,7 @@ spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/2042.2005-06-24.SA_and_HP
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/1541.2005-06-21.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/3207.2005-07-02.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/4165.2005-07-16.SA_and_HP.spam.txt
-ham /home/preethishp/Documents/spam_or_ham/dev/4/spam/2943.2005-06-30.SA_and_HP.spam.txt
+spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/2943.2005-06-30.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/3961.2005-07-14.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/2787.2005-06-29.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/2004.2005-06-24.SA_and_HP.spam.txt
@@ -4398,7 +4398,7 @@ spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/3791.2005-07-07.SA_and_HP
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/2081.2005-06-25.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/2569.2005-06-28.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/2712.2005-06-29.SA_and_HP.spam.txt
-ham /home/preethishp/Documents/spam_or_ham/dev/4/spam/1049.2002-08-25.SA_and_HP.spam.txt
+spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/1049.2002-08-25.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/1202.2002-09-13.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/4355.2005-07-18.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/5104.2005-07-21.SA_and_HP.spam.txt
@@ -4476,14 +4476,14 @@ spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/1137.2002-09-02.SA_and_HP
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/4421.2005-07-18.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/2003.2005-06-24.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/0501.2002-07-17.SA_and_HP.spam.txt
-spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/0518.2002-07-18.SA_and_HP.spam.txt
+ham /home/preethishp/Documents/spam_or_ham/dev/4/spam/0518.2002-07-18.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/2526.2005-06-28.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/4329.2005-07-18.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/2285.2005-06-26.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/2997.2005-07-01.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/3024.2005-07-01.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/1813.2005-06-23.SA_and_HP.spam.txt
-spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/4328.2005-07-18.SA_and_HP.spam.txt
+ham /home/preethishp/Documents/spam_or_ham/dev/4/spam/4328.2005-07-18.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/2516.2005-06-28.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/3498.2005-07-05.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/0579.2002-07-20.SA_and_HP.spam.txt
@@ -4504,7 +4504,7 @@ spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/5083.2005-07-21.SA_and_HP
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/0329.2002-05-29.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/0576.2002-07-20.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/3544.2005-07-05.SA_and_HP.spam.txt
-ham /home/preethishp/Documents/spam_or_ham/dev/4/spam/2675.2005-06-29.SA_and_HP.spam.txt
+spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/2675.2005-06-29.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/0856.2002-07-30.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/4360.2005-07-18.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/1204.2002-09-14.SA_and_HP.spam.txt
@@ -4636,7 +4636,7 @@ spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/2383.2005-06-27.SA_and_HP
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/3614.2005-07-06.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/1812.2005-06-23.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/3416.2005-07-04.SA_and_HP.spam.txt
-ham /home/preethishp/Documents/spam_or_ham/dev/4/spam/4839.2005-07-19.SA_and_HP.spam.txt
+spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/4839.2005-07-19.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/4082.2005-07-15.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/0120.2002-05-10.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/3267.2005-07-03.SA_and_HP.spam.txt
@@ -4742,7 +4742,7 @@ spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/1539.2005-06-21.SA_and_HP
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/3004.2005-07-01.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/3846.2005-07-12.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/4156.2005-07-16.SA_and_HP.spam.txt
-ham /home/preethishp/Documents/spam_or_ham/dev/4/spam/0965.2002-08-07.SA_and_HP.spam.txt
+spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/0965.2002-08-07.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/3524.2005-07-05.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/0159.2002-05-14.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/1031.2002-08-23.SA_and_HP.spam.txt
@@ -4896,7 +4896,7 @@ spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/3390.2005-07-04.SA_and_HP
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/2437.2005-06-27.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/0490.2002-07-11.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/1853.2005-06-23.SA_and_HP.spam.txt
-ham /home/preethishp/Documents/spam_or_ham/dev/4/spam/1365.2003-07-03.SA_and_HP.spam.txt
+spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/1365.2003-07-03.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/1969.2005-06-24.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/3781.2005-07-07.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/1030.2002-08-23.SA_and_HP.spam.txt
@@ -4976,7 +4976,7 @@ spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/2139.2005-06-25.SA_and_HP
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/0845.2002-07-28.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/0623.2002-07-21.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/3651.2005-07-06.SA_and_HP.spam.txt
-spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/3889.2005-07-13.SA_and_HP.spam.txt
+ham /home/preethishp/Documents/spam_or_ham/dev/4/spam/3889.2005-07-13.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/0734.2002-07-24.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/3338.2005-07-03.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/2500.2005-06-28.SA_and_HP.spam.txt
@@ -5075,7 +5075,7 @@ ham /home/preethishp/Documents/spam_or_ham/dev/4/spam/4771.2005-07-19.SA_and_HP.
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/2138.2005-06-25.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/1347.2002-12-03.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/0162.2002-05-14.SA_and_HP.spam.txt
-ham /home/preethishp/Documents/spam_or_ham/dev/4/spam/4779.2005-07-19.SA_and_HP.spam.txt
+spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/4779.2005-07-19.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/2524.2005-06-28.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/0618.2002-07-21.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/4507.2005-07-19.SA_and_HP.spam.txt
@@ -5090,7 +5090,7 @@ spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/1826.2005-06-23.SA_and_HP
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/2054.2005-06-24.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/2713.2005-06-29.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/2752.2005-06-29.SA_and_HP.spam.txt
-spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/2558.2005-06-28.SA_and_HP.spam.txt
+ham /home/preethishp/Documents/spam_or_ham/dev/4/spam/2558.2005-06-28.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/4921.2005-07-20.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/5081.2005-07-21.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/3030.2005-07-01.SA_and_HP.spam.txt
@@ -5120,7 +5120,7 @@ spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/5138.2005-07-21.SA_and_HP
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/2661.2005-06-29.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/1406.2005-04-09.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/0168.2002-05-14.SA_and_HP.spam.txt
-spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/4404.2005-07-18.SA_and_HP.spam.txt
+ham /home/preethishp/Documents/spam_or_ham/dev/4/spam/4404.2005-07-18.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/3837.2005-07-12.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/4431.2005-07-18.SA_and_HP.spam.txt
 spam /home/preethishp/Documents/spam_or_ham/dev/4/spam/2014.2005-06-24.SA_and_HP.spam.txt
