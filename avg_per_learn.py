@@ -9,11 +9,6 @@ def changeDir(path):
     os.chdir(path)
 
 
-def pathJoin(dirNamePath, listCon):
-    returnList = []
-    for item in listCon:
-        returnList.append(os.path.join(dirNamePath, item))
-    return returnList
 
 def findAllSpamFiles(path):
     #listDir = []
@@ -63,34 +58,16 @@ def extractWordsFromSpam(spam, spamIndex):
         for word in wordList:
             if word not in weightdictContainer.keys():
                 weightdictContainer[word] = 0
-            if word not in wordListDict.keys():
-                wordListDict[word] = 1
-            else:
+            try:
                 wordListDict[word] += 1
+            except KeyError:
+                wordListDict[word] = 1
+
         spamString = 'spam'+spamIndex.__str__()
         wordsForAFileName[spamString] = wordListDict
 
 
-    #print(len(wordsForAFileName))
 
-
-    '''for item in hampath:
-        with open(item, 'r', encoding="latin1") as fileHandle:
-            wordString = fileHandle.read()
-            wordList = wordString.split()
-            wordListDict = {}
-            #weightdictContainer = {word: 0 for word in wordList if word not in weightdictContainer.keys()}
-            for word in wordList:
-                if word not in weightdictContainer.keys():
-                    weightdictContainer[word] = 0
-                if word not in wordListDict.keys():
-                    wordListDict[word] = 1
-                else:
-                    wordListDict[word] += 1
-            hamString = 'ham'+ hamNumber.__str__()
-            wordsForAFileName[hamString] = wordListDict
-            hamNumber += 1
-    #print(len(wordsForAFileName)) '''
     weightWordsList.append(weightdictContainer)
     weightWordsList.append(wordsForAFileName)
     return weightWordsList
@@ -111,34 +88,15 @@ def extractWordsFromHam(ham, hamIndex):
         for word in wordList:
             if word not in weightdictContainer.keys():
                 weightdictContainer[word] = 0
-            if word not in wordListDict.keys():
-                wordListDict[word] = 1
-            else:
+            try:
                 wordListDict[word] += 1
+            except KeyError:
+                wordListDict[word] = 1
         hamString = 'ham'+hamIndex.__str__()
         wordsForAFileName[hamString] = wordListDict
 
 
-    #print(len(wordsForAFileName))
 
-
-    '''for item in hampath:
-        with open(item, 'r', encoding="latin1") as fileHandle:
-            wordString = fileHandle.read()
-            wordList = wordString.split()
-            wordListDict = {}
-            #weightdictContainer = {word: 0 for word in wordList if word not in weightdictContainer.keys()}
-            for word in wordList:
-                if word not in weightdictContainer.keys():
-                    weightdictContainer[word] = 0
-                if word not in wordListDict.keys():
-                    wordListDict[word] = 1
-                else:
-                    wordListDict[word] += 1
-            hamString = 'ham'+ hamNumber.__str__()
-            wordsForAFileName[hamString] = wordListDict
-            hamNumber += 1
-    #print(len(wordsForAFileName)) '''
     weightWordsList.append(weightdictContainer)
     weightWordsList.append(wordsForAFileName)
     return weightWordsList
@@ -159,9 +117,8 @@ def shuffleContents(weightDict):
     retweightDict = {}
     listOfKeys = list(weightDict.keys())
     random.shuffle(listOfKeys)
+    retweightDict = {keyItem : weightDict[keyItem] for keyItem in listOfKeys}
 
-    for keyItem in listOfKeys:
-        retweightDict[keyItem] = weightDict[keyItem]
     return retweightDict
 
 
@@ -185,28 +142,26 @@ if __name__ == '__main__':
     avgWeightDict = {}
 
     for file in findAllSpamFiles(direcPath):
-        weightWordsList = extractWordsFromSpam(file, spamIndex)
-        wordsForAFileName.update(weightWordsList[1])
-        weightDict.update(weightWordsList[0])
+        #weightWordsList = extractWordsFromSpam(file, spamIndex)
+        wordsForAFileName.update(extractWordsFromSpam(file, spamIndex)[1])
+        weightDict.update(extractWordsFromSpam(file, spamIndex)[0])
         spamIndex += 1
 
 
 
     for file in findAllHamFiles(direcPath):
-        weightWordsList = extractWordsFromHam(file, hamIndex)
-        wordsForAFileName.update(weightWordsList[1])
-        weightDict.update(weightWordsList[0])
+
+        wordsForAFileName.update(extractWordsFromHam(file, hamIndex)[1])
+        weightDict.update(extractWordsFromHam(file, hamIndex)[0])
         hamIndex += 1
 
     avgWeightDict = dict(weightDict)
-    #weightWordsList = extractWordsFromSpamHam(spamFiles, hamFiles)
-    #weightDict = weightWordsList[0]
-    #avgWeightDict = weightWordsList[0]
-    #wordsForAFileName = weightWordsList[1]
+
     bias = 0
     avgBias = 0
     i = 0
     count = 1
+
 
     while i<maxIter:
         wordsForAFileName = shuffleContents(wordsForAFileName)
@@ -214,8 +169,7 @@ if __name__ == '__main__':
             y = 1
             alpha = 0
             for word, x in val.items():
-                if word in weightDict.keys():
-                    alpha += x * weightDict[word]
+                alpha += x * weightDict[word]
 
 
             alpha += bias
@@ -230,10 +184,8 @@ if __name__ == '__main__':
                 bias += y
                 avgBias += (y*count)
                 for word,x in val.items():
-                    if word in weightDict.keys():
-                        weightDict[word] += (y * x)
-                    if word in avgWeightDict.keys():
-                        avgWeightDict[word] += (y * count * x)
+                    weightDict[word] += (y * x)
+                    avgWeightDict[word] += (y * count * x)
 
             count+=1
 
@@ -242,8 +194,10 @@ if __name__ == '__main__':
 
 
     avgBias = bias - ((1/count) * avgBias)
-    for keyValue in avgWeightDict.keys():
-        avgWeightDict[keyValue] = weightDict[keyValue] - ((1/count)*avgWeightDict[keyValue])
+    #for keyValue in avgWeightDict.keys():
+        #avgWeightDict[keyValue] = weightDict[keyValue] - ((1/count)*avgWeightDict[keyValue])
+
+    avgWeightDict = {keyValue : (weightDict[keyValue] - ((1/count)*avgWeightDict[keyValue])) for keyValue in avgWeightDict.keys()}
 
 
     if (not writeModelToFile(avgBias, avgWeightDict, storePath)):

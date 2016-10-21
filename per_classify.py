@@ -31,17 +31,20 @@ def extractKeyWords(fileParam):
     with open(fileParam, 'r', encoding='latin1') as fileHandle:
         wordList = fileHandle.read().split()
         for word in wordList:
-            if word not in wordDict:
-                wordDict[word] = 1
-            else:
+            try:
                 wordDict[word] += 1
+            except:
+                wordDict[word] = 1
+
     return wordDict
 
 def calcAlpha(fileKeyWordDict, bias, weightDict):
     alpha = 0
     for key, value in fileKeyWordDict.items():
-        if key in weightDict.keys():
+        try:
             alpha = alpha + (weightDict[key] * value)
+        except KeyError:
+            continue
     alpha += bias
     return alpha
 
@@ -88,14 +91,13 @@ if __name__ == '__main__':
     modelParams = openModel(storePath)
 
 
-    resultList = []
     os.chdir(storePath)
 
 
 
     bias = modelParams[0]
     weightDict = modelParams[1]
-    #print(len(modelParams))
+
     with open(outputFileName,mode='w',encoding='latin1') as fileHandle:
         for singleFile in findAllFiles(direcPath):
             strValue = classifyDocument(singleFile, bias, weightDict)
