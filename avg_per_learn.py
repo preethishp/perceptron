@@ -3,6 +3,7 @@ import argparse
 import pickle
 import re
 import random
+import time
 
 def changeDir(path):
     '''This function changes the directory'''
@@ -123,6 +124,7 @@ def shuffleContents(weightDict):
 
 
 if __name__ == '__main__':
+    startTime = time.time()
     maxIter = 30
     storePath = os.getcwd()
     parserObj = argparse.ArgumentParser()
@@ -140,22 +142,23 @@ if __name__ == '__main__':
     spamIndex, hamIndex = 0, 0
     weightDict = {}
     avgWeightDict = {}
-
+    spamFileParsingStart = time.time()
     for file in findAllSpamFiles(direcPath):
-        #weightWordsList = extractWordsFromSpam(file, spamIndex)
-        wordsForAFileName.update(extractWordsFromSpam(file, spamIndex)[1])
-        weightDict.update(extractWordsFromSpam(file, spamIndex)[0])
+        weightWordsList = extractWordsFromSpam(file, spamIndex)
+        wordsForAFileName.update(weightWordsList[1])
+        weightDict.update(weightWordsList[0])
         spamIndex += 1
+    print('Spam File Parsing Time: '+ (time.time() - spamFileParsingStart).__str__())
 
-
+    hamFileParsingStart = time.time()
 
     for file in findAllHamFiles(direcPath):
-
-        wordsForAFileName.update(extractWordsFromHam(file, hamIndex)[1])
-        weightDict.update(extractWordsFromHam(file, hamIndex)[0])
+        weightWordsList = extractWordsFromHam(file, hamIndex)
+        wordsForAFileName.update(weightWordsList[1])
+        weightDict.update(weightWordsList[0])
         hamIndex += 1
-
-    avgWeightDict = dict(weightDict)
+    print('Ham File Parsing Time: '+(time.time() - hamFileParsingStart).__str__())
+    avgWeightDict = weightDict
 
     bias = 0
     avgBias = 0
@@ -169,7 +172,7 @@ if __name__ == '__main__':
             y = 1
             alpha = 0
             for word, x in val.items():
-                alpha += x * weightDict[word]
+                alpha += (x * weightDict[word])
 
 
             alpha += bias
@@ -203,3 +206,4 @@ if __name__ == '__main__':
     if (not writeModelToFile(avgBias, avgWeightDict, storePath)):
         print('Model was not exported to per_model.txt')
 
+    print('avg_per_learn file exec time: ' + (time.time() - startTime).__str__())
