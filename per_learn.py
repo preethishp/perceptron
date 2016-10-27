@@ -3,6 +3,7 @@ import argparse
 import pickle
 import re
 import random
+import time
 
 def changeDir(path):
     '''This function changes the directory'''
@@ -21,6 +22,7 @@ def findAllSpamFiles(path):
                     yield os.path.join(os.path.join(dirNamePath, name), item)
 
 
+    #((os.path.join(os.path.join(dirNamePath, name), item))for dirNamePath, dtory, fileNames in os.walk(path) for name in dtory if name == 'spam' for item in os.listdir(os.path.join(dirNamePath, name)))
 
 
 def findAllHamFiles(path):
@@ -107,7 +109,7 @@ def writeModelToFile(bias, weightDict, storePath):
     return True
 
 
-def shuffleContents(listOfKeys, weightDict):
+def shuffleContents(weightDict):
     retweightDict = {}
     listOfKeys = list(weightDict.keys())
     random.shuffle(listOfKeys)
@@ -117,6 +119,7 @@ def shuffleContents(listOfKeys, weightDict):
 
 
 if __name__ == '__main__':
+    startTime = time.time()
     maxIter = 20
     storePath = os.getcwd()
     parserObj = argparse.ArgumentParser()
@@ -130,19 +133,20 @@ if __name__ == '__main__':
     spamIndex, hamIndex = 0, 0
     weightDict = {}
     #avgWeightDict = {}
-
+    spamFileParsingTime = time.time()
     for file in findAllSpamFiles(direcPath):
-        #weightWordsList = extractWordsFromSpam(file, spamIndex)
-        wordsForAFileName.update(extractWordsFromSpam(file, spamIndex)[1])
-        weightDict.update(extractWordsFromSpam(file, spamIndex)[0])
+        weightWordsList = extractWordsFromSpam(file, spamIndex)
+        wordsForAFileName.update(weightWordsList[1])
+        weightDict.update(weightWordsList[0])
         spamIndex += 1
-
+    print('spamFileParsingTime: '+(time.time() - spamFileParsingTime).__str__())
+    hamFileParsingTime = time.time()
     for file in findAllHamFiles(direcPath):
-        #weightWordsList = extractWordsFromHam(file, hamIndex)
-        wordsForAFileName.update(extractWordsFromHam(file, hamIndex)[1])
-        weightDict.update(extractWordsFromHam(file, hamIndex)[0])
+        weightWordsList = extractWordsFromHam(file, hamIndex)
+        wordsForAFileName.update(weightWordsList[1])
+        weightDict.update(weightWordsList[0])
         hamIndex += 1
-
+    print('hamFileParsingTime: '+ (time.time() - hamFileParsingTime).__str__())
     #avgWeightDict = dict(weightDict)
 
     #weightWordsList = extractWordsFromSpamHam(spamFiles, hamFiles)
@@ -157,7 +161,7 @@ if __name__ == '__main__':
             y = 1
             alpha = 0
             for word, x in val.items():
-                alpha += x * weightDict[word]
+                alpha += (x * weightDict[word])
 
 
             alpha += bias
@@ -179,5 +183,6 @@ if __name__ == '__main__':
 
     if (not writeModelToFile(bias, weightDict ,storePath)):
         print('Model was not exported to per_model.txt')
+    print('per_learn file exec time: '+(time.time() - startTime).__str__())
 
 
